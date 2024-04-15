@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "pid": "11",
+      "pname": "Laptop",
+      "price": "25000",
+      "id": 1
+    },
+    {
+      "pid": "12",
+      "pname": "Mobile",
+      "price": "15000",
+      "name": "Mobile",
+      "id": 2
+    }
+  ]
+}
